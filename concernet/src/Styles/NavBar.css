@@ -1,0 +1,52 @@
+*{
+    font-family: sans-serif;
+}
+
+.NavB{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    background-color: darkblue;
+    padding: 15px 30px;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    top: 0;
+}
+
+.Titulo{
+    flex: 1;
+}
+
+.Titulo h1{
+    font-size: 38px;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.NavB ul{
+    display: flex;
+    list-style: none;
+}
+
+.NavB ul li{
+    margin-right: 20px;
+}
+
+.NavB ul li a{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    padding: 11px 15px;
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+
+.NavB ul li a:hover{
+    background-color: blue;
+}
