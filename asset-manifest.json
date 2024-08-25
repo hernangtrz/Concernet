@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Concernet/static/css/main.7d9c1ffa.css",
+    "main.js": "/Concernet/static/js/main.72036329.js",
+    "static/media/Piscina.png": "/Concernet/static/media/Piscina.d6def17bae7df0e714ce.png",
+    "static/media/Cancha.png": "/Concernet/static/media/Cancha.049cfbafdc321e0d316a.png",
+    "static/media/SalonSocial.png": "/Concernet/static/media/SalonSocial.6c6c8a7ecd62b17d8c55.png",
+    "static/media/login.jpg": "/Concernet/static/media/login.b1071e34dc338990ec58.jpg",
+    "static/media/Parque.png": "/Concernet/static/media/Parque.22a7630a24431265cecb.png",
+    "static/media/piscina.jpg": "/Concernet/static/media/piscina.8693af5803961dac6cf8.jpg",
+    "static/media/vivienda3.jpg": "/Concernet/static/media/vivienda3.51de0f9fbb620203fdeb.jpg",
+    "static/media/vivienda5.jpg": "/Concernet/static/media/vivienda5.0d617ca6bcb01da42437.jpg",
+    "static/media/vivienda1.jpg": "/Concernet/static/media/vivienda1.3c77379d5ba19bd7a524.jpg",
+    "static/media/Baños.png": "/Concernet/static/media/Baños.715766bcc4cd9d626bbd.png",
+    "static/media/vivienda2.jpg": "/Concernet/static/media/vivienda2.0ad9687952b3ee62f6b9.jpg",
+    "static/media/vivienda4.jpg": "/Concernet/static/media/vivienda4.15a15f6863ecb482f42a.jpg",
+    "static/media/salonSocial.jpeg": "/Concernet/static/media/salonSocial.c4a73cd9ddf14f871076.jpeg",
+    "static/media/vivienda6.jpg": "/Concernet/static/media/vivienda6.4013762f5c6e05fa53e4.jpg",
+    "static/media/LasMargaritas.png": "/Concernet/static/media/LasMargaritas.43c86e526165c4f05e8b.png",
+    "static/media/cancha.jpg": "/Concernet/static/media/cancha.d6e150938528fa348240.jpg",
+    "static/media/Habitacion.png": "/Concernet/static/media/Habitacion.4bd10f2753f504f2a759.png",
+    "static/media/Sala-comedor.png": "/Concernet/static/media/Sala-comedor.14abfdb1ec5c7e829bb1.png",
+    "static/media/cash-register.svg": "/Concernet/static/media/cash-register.c6bde1758eea39888f81fa8400d50df5.svg",
+    "index.html": "/Concernet/index.html",
+    "static/media/mail.svg": "/Concernet/static/media/mail.645dab36e8c50d65964500a807ed1cee.svg",
+    "static/media/instagram.svg": "/Concernet/static/media/instagram.434108b90dffc35a6f71e6c49b41d3c1.svg",
+    "static/media/whatsapp.svg": "/Concernet/static/media/whatsapp.7fd32d3c050b9b9b22ec7e87358e3e7f.svg",
+    "static/media/receipt.svg": "/Concernet/static/media/receipt.a2df99c923ceb2b2705d57ff68d2416d.svg",
+    "static/media/youtube.svg": "/Concernet/static/media/youtube.c1b122e6171fc2f9a50cd737ae7d31b9.svg",
+    "main.7d9c1ffa.css.map": "/Concernet/static/css/main.7d9c1ffa.css.map",
+    "main.72036329.js.map": "/Concernet/static/js/main.72036329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9c1ffa.css",
+    "static/js/main.72036329.js"
+  ]
+}
