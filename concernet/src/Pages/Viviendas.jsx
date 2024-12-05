@@ -4,7 +4,6 @@ import viviendas from "../viviendasData";
 import NavBar from "../Components/NavBar";
 import Footer from "../Components/Footer";
 
-
 const Viviendas = () => {
   return (
     <div className="container">
@@ -13,7 +12,7 @@ const Viviendas = () => {
         <h1>Viviendas Disponibles</h1>
         <ViviendasList viviendas={viviendas} />
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 };

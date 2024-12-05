@@ -4,6 +4,7 @@ import imagenV3 from "./Images/vivienda3.jpg";
 import imagenV4 from "./Images/vivienda4.jpg";
 import imagenV5 from "./Images/vivienda5.jpg";
 import imagenV6 from "./Images/vivienda6.jpg";
+
 const viviendas = [
   {
     id: 1,

@@ -1,0 +1,64 @@
+"filename", "language", "JavaScript", "CSS", "JavaScript JSX", "Markdown", "XML", "JSON", "HTML", "comment", "blank", "total"
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\README.md", "Markdown", 0, 0, 0, 38, 0, 0, 0, 0, 33, 71
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\__mocks__\fileMock.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 1, 1, 3
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\__mocks__\server.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 2, 3, 17
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\babel.config.js", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\jest.setup.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 1, 1, 3
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\package-lock.json", "JSON", 0, 0, 0, 0, 0, 22522, 0, 0, 1, 22523
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\package.json", "JSON", 0, 0, 0, 0, 0, 85, 0, 0, 1, 86
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 20, 23, 1, 44
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\public\manifest.json", "JSON", 0, 0, 0, 0, 0, 25, 0, 0, 1, 26
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\App.js", "JavaScript", 33, 0, 0, 0, 0, 0, 0, 0, 3, 36
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\AuthProvider.js", "JavaScript", 83, 0, 0, 0, 0, 0, 0, 3, 13, 99
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Components\Footer.jsx", "JavaScript JSX", 0, 0, 52, 0, 0, 0, 0, 0, 3, 55
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Components\Modal.jsx", "JavaScript JSX", 0, 0, 13, 0, 0, 0, 0, 1, 3, 17
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Components\NavBar.jsx", "JavaScript JSX", 0, 0, 64, 0, 0, 0, 0, 1, 7, 72
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Components\ViviendaItem.jsx", "JavaScript JSX", 0, 0, 23, 0, 0, 0, 0, 0, 3, 26
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Components\ViviendasList.jsx", "JavaScript JSX", 0, 0, 11, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\EspaciosData.js", "JavaScript", 21, 0, 0, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\cash-register.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\instagram.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\lock.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\mail.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\receipt.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\user.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\whatsapp.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Images\youtube.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\Agendamiento.jsx", "JavaScript JSX", 0, 0, 197, 0, 0, 0, 0, 10, 23, 230
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\Dashboard.jsx", "JavaScript JSX", 0, 0, 177, 0, 0, 0, 0, 0, 21, 198
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\Espacios.jsx", "JavaScript JSX", 0, 0, 43, 0, 0, 0, 0, 0, 3, 46
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\GestionResidentes.jsx", "JavaScript JSX", 0, 0, 449, 0, 0, 0, 0, 29, 62, 540
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\GestionViviendas.jsx", "JavaScript JSX", 0, 0, 458, 0, 0, 0, 0, 5, 35, 498
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\Login.jsx", "JavaScript JSX", 0, 0, 76, 0, 0, 0, 0, 2, 6, 84
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\Management.jsx", "JavaScript JSX", 0, 0, 69, 0, 0, 0, 0, 4, 13, 86
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\ViviendaInfo.jsx", "JavaScript JSX", 0, 0, 40, 0, 0, 0, 0, 1, 6, 47
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Pages\Viviendas.jsx", "JavaScript JSX", 0, 0, 18, 0, 0, 0, 0, 0, 3, 21
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PrivateRoute.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasHilos\AgendamientoHilos.test.js", "JavaScript", 120, 0, 0, 0, 0, 0, 0, 12, 20, 152
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasHilos\GestionResidenteHilos.test.js", "JavaScript", 131, 0, 0, 0, 0, 0, 0, 20, 26, 177
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasHilos\GestionViviendaHilos.test.js", "JavaScript", 121, 0, 0, 0, 0, 0, 0, 19, 25, 165
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasIntegracion\Agendamiento.integration.test.js", "JavaScript", 96, 0, 0, 0, 0, 0, 0, 9, 18, 123
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasIntegracion\GestionViviendas.integration.test.js", "JavaScript", 111, 0, 0, 0, 0, 0, 0, 27, 33, 171
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasUnitarias\Agendamiento.test.js", "JavaScript", 163, 0, 0, 0, 0, 0, 0, 15, 21, 199
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasUnitarias\GestionViviendas.test.js", "JavaScript", 111, 0, 0, 0, 0, 0, 0, 15, 26, 152
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\PruebasUnitarias\Login.test.js", "JavaScript", 59, 0, 0, 0, 0, 0, 0, 1, 17, 77
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Agendamiento.css", "CSS", 0, 124, 0, 0, 0, 0, 0, 0, 21, 145
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Dashboard.css", "CSS", 0, 145, 0, 0, 0, 0, 0, 0, 29, 174
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Espacios.css", "CSS", 0, 55, 0, 0, 0, 0, 0, 0, 7, 62
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Footer.css", "CSS", 0, 67, 0, 0, 0, 0, 0, 0, 11, 78
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\GestionResidentes.css", "CSS", 0, 110, 0, 0, 0, 0, 0, 1, 19, 130
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\GestionViviendas.css", "CSS", 0, 121, 0, 0, 0, 0, 0, 2, 18, 141
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Login.css", "CSS", 0, 90, 0, 0, 0, 0, 0, 1, 12, 103
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Management.css", "CSS", 0, 62, 0, 0, 0, 0, 0, 0, 11, 73
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Modal.css", "CSS", 0, 33, 0, 0, 0, 0, 0, 1, 4, 38
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\NavBar.css", "CSS", 0, 45, 0, 0, 0, 0, 0, 0, 8, 53
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\ViviendaInfo.css", "CSS", 0, 45, 0, 0, 0, 0, 0, 1, 7, 53
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\Styles\Viviendas.css", "CSS", 0, 69, 0, 0, 0, 0, 0, 1, 13, 83
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\__mocks__\firebaseConfig.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 1, 3, 26
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\babel.config.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\firebaseConfig.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 1, 2, 19
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\index.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\setupTests.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"c:\Users\HERNAN GUTIERREZ\Desktop\ConCerNet-main\concernet\src\viviendasData.js", "JavaScript", 63, 0, 0, 0, 0, 0, 0, 0, 3, 66
+"Total", "-", 1207, 966, 1690, 38, 8, 22632, 20, 214, 614, 27389

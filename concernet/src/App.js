@@ -8,6 +8,9 @@ import Agendamiento from "./Pages/Agendamiento";
 import Management from "./Pages/Management";
 import Viviendas from "./Pages/Viviendas";
 import ViviendaInfo from "./Pages/ViviendaInfo";
+import GestionResidentes from "./Pages/GestionResidentes";
+import GestionViviendas from "./Pages/GestionViviendas";
+
 function App() {
   return (
     <AuthProvider>
@@ -22,6 +25,8 @@ function App() {
         <Route path="/Espacios" element={<Espacios />} />
         <Route path="/Viviendas" element={<Viviendas />} />
         <Route path="/viviendas/:id" element={<ViviendaInfo />} />
+        <Route path="/GestionResidentes" element={<GestionResidentes />} />
+        <Route path="/GestionViviendas" element={<GestionViviendas />} />
       </Routes>
     </AuthProvider>
   );

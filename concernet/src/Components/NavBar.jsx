@@ -1,5 +1,5 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import React, {useEffect} from "react";
+import React, { useEffect } from "react";
 import { useAuth } from "../AuthProvider";
 import "../Styles/NavBar.css";
 
@@ -11,11 +11,13 @@ const NavBar = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [location]);
-  
+
   const handleLogout = () => {
     auth.logOut();
     navigate("/");
   };
+
+  const isAdmin = auth.user && auth.user.role === "admin";
 
   return (
     <body>
@@ -27,15 +29,33 @@ const NavBar = () => {
           <li>
             <Link to="/Dashboard">Inicio</Link>
           </li>
-          <li>
-            <Link to="/Management">Administración</Link>
-          </li>
-          <li>
-            <Link to="/Espacios">Espacios Comunes</Link>
-          </li>
-          <li>
-            <Link to="/Viviendas">Viviendas</Link>
-          </li>
+          {isAdmin ? (
+            <>
+              <li>
+                <Link to="/GestionResidentes">Gestionar Residentes</Link>
+              </li>
+              <li>
+                <Link to="/GestionViviendas">Gestion Viviendas</Link>
+              </li>
+              <li>
+                <Link to="/Viviendas">Viviendas</Link>
+              </li>
+            </>
+          ) : (
+            <>
+              <li>
+                <Link to="/Management">Administración</Link>
+              </li>
+              <li>
+                <Link to="/Espacios">Espacios Comunes</Link>
+              </li>
+              <li>
+                <Link to="/Viviendas">Viviendas</Link>
+              </li>
+            </>
+          )}
+
+          {/* Cambiar el botón de sesión según el estado de autenticación */}
           <li>
             {auth.user ? (
               <Link onClick={handleLogout}>Cerrar sesión</Link>

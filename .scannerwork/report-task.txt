@@ -1,0 +1,6 @@
+projectKey=Concernet
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=Concernet
+ceTaskId=865c1429-1559-43d8-a0ae-51a48f1ff02c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=865c1429-1559-43d8-a0ae-51a48f1ff02c
